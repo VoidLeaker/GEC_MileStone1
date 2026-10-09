@@ -11,14 +11,12 @@ New Functionality
 Code Additions
 --------------
 
-< A list of major additions e.g. classes, functions > 
-
 - Calculating the FPS over a second, and then displaying this through the ImGUI
+- Added multiple buttons to support the multiple animation sets, so when pressing the buttons changes different animations
+  - Default animation is idle
 
 Tests
 -----
-
-< A list of tests you have done to prove the milestone requirements have been met e.g. a stress test may be done where you try extreme values for things. e.g. render 1,000 sprites all at the same time.>
 
 - Tested the sprite with a number of textures and animations
   - Error: The dead animation is clipping with the hands.
@@ -27,51 +25,4 @@ Tests
 Notes
 -----
 
-<short notes on things left to do, issues and observations about possible future changes etc.>
 - Need to encapsulate all the graphics logic within its own graphics class (e.g., TextureManager, AnimationManager)
-
-Milestone 2 <version> and <date> (WIP)
---------------------------------
-
-New Functionality
------------------
-
-< A list of additional functionality in this release aimed at the user e.g. "Control of the player craft via the XBox controller".>
-
-Code Additions
---------------
-
-< A list of major additions e.g. classes, functions > 
-
-Tests
------
-
-< A list of tests you have done to prove the milestone requirements have been met e.g. a stress test may be done where you try extreme values for things. e.g. render 1,000 sprites all at the same time.>
-
-Notes
------
-
-<short notes on things left to do, issues and observations about possible future changes etc.>
-
-Milestone 3 <version> and <date> (WIP)
---------------------------------
-
-New Functionality
------------------
-
-< A list of additional functionality in this release aimed at the user e.g. "Control of the player craft via the XBox controller".>
-
-Code Additions
---------------
-
-< A list of major additions e.g. classes, functions > 
-
-Tests
------
-
-< A list of tests you have done to prove the milestone requirements have been met e.g. a stress test may be done where you try extreme values for things. e.g. render 1,000 sprites all at the same time.>
-
-Notes
------
-
-<short notes on things left to do, issues and observations about possible future changes etc.>
